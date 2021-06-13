@@ -1,13 +1,13 @@
 
 <img src="https://github.com/jose-rgb/jose-rgb/blob/main/javascript%20(1).gif" width="1000" />
 
-<h2>Olá👋, Me chamo José Ricardo</h2>
+<h2>hello👋, My name is José Ricardo</h2>
 
-<h4>📖 Sou aluno do curso de Análise e desenvolvimento de sistemas no Instituto Federal Do Piauí.</h4>
-<h4>Apaixonado pelo Universo  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="20"/> e suas possibilidades  📱 💻 🖥.
+<h4>📖 I am a student of the course of Analysis and development of systems at the Federal Institute of Piauí.</h4>
+<h4>Passionate about the Universe  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="20"/> and its possibilities 📱 💻 🖥.
 </h4>
 
-<h4>🎯 Onde me encontrar:</h4>
+<h4>🎯 where to find me:</h4>
 
   
 <a href="https://www.linkedin.com/in/jos%C3%A9-ricardo-aa97a41b2/" target="blank"><img align="center" src="https://th.bing.com/th/id/R6b6290a683a80e62efcb707fbef5bba7?rik=yRrI%2baQryARu5Q&pid=ImgRaw"  height="30" width="30" /></a>
