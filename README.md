@@ -3,7 +3,7 @@
 
 <h2>hello👋, My name is José Ricardo</h2>
 
-<h4>📖 I am a student of the course of Analysis and development of systems at the Federal Institute of Piauí.</h4>
+<h4>📖 Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí.</h4>
 <h4>Passionate about the Universe  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="20"/> and its possibilities 📱 💻 🖥.
 </h4>
 
