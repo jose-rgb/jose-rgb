@@ -8,11 +8,11 @@
     <div>
       <h2>Olá👋, me chamo José Ricardo</h2> 
     </div>
-    <div style="display:flex; flex-direction:row">
+    <div style="display:flex; align-items:center; flex-direction:row;">
       <div>
         <img src=".github/octocat.png" width="400"/>
       </div>
-      <div style="margin-top: 70px">
+      <div style="margin-top: 70px; margin-lefth:60px;">
           Sou aluno do curso de tecnolgia em Análise e Desenvolvimento de Sistemas e apaixonado pelo universo Javascript e suas possibilidades 📱 💻 🖥. <br>
           Amo trabalhar com o Front-End dos websites, mas também estudo frequentemente o desenvolvimento de APIs e de aplicativos Multiplataforma.<br>
           <h3>Onde me encontrar 🎯</h3>
@@ -21,7 +21,7 @@
               <Img  style="width:120px; height:30px; border-radius:3px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
             </a>
             <a href="https://app.rocketseat.com.br/me/jose-ricardo-06327">
-              <Img style="width:122px; height:32px; object-fit:cover; border-radius:3px" src="https://seeklogo.com/images/R/rocketseat-logo-666CE4B396-seeklogo.com.png" target="_blank"/>
+              <Img style="width:122px; height:32px; object-fit:cover; border-radius:3px;" src="https://seeklogo.com/images/R/rocketseat-logo-666CE4B396-seeklogo.com.png" target="_blank"/>
             </a>
           </div>
       </div>
