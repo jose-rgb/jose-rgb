@@ -7,12 +7,9 @@
     <img src=".github/javascript.gif" width="100%" />
     <div>
       <h2>Olá👋, me chamo José Ricardo</h2> 
-    </div>
-    <div style="display:flex; align-items:center; flex-direction:row;">
-      <div>
-        <img src=".github/octocat.png" width="400"/>
-      </div>
-      <div style="margin-top: 70px; margin-lefth:60px;">
+    </div>    
+        <div style="display:flex; flex-directiuion:row; ">
+          <div>
           Sou aluno do curso de tecnolgia em Análise e Desenvolvimento de Sistemas e apaixonado pelo universo Javascript e suas possibilidades 📱 💻 🖥. <br>
           Amo trabalhar com o Front-End dos websites, mas também estudo frequentemente o desenvolvimento de APIs e de aplicativos Multiplataforma.<br>
           <h3>Onde me encontrar 🎯</h3>
@@ -20,14 +17,13 @@
             <a style="margin-right:20px" href="https://www.linkedin.com/in/jos%C3%A9-ricardo-aa97a41b2/">
               <Img  style="width:120px; height:30px; border-radius:3px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
             </a>
-            <a href="https://app.rocketseat.com.br/me/jose-ricardo-06327">
-              <Img style="width:122px; height:32px; object-fit:cover; border-radius:3px;" src="https://seeklogo.com/images/R/rocketseat-logo-666CE4B396-seeklogo.com.png" target="_blank"/>
-            </a>
+          </div>
           </div>
       </div>
-    </div>
+      </div>
       <h2 align="left">Skills </h2>
-      <div align="left">
+      <div>
+        <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52"  alt="javascript logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -43,6 +39,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+      </div>
+        <div>
+          <img src=".github/octocat.png" width="350"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-rgb&layout=donut-vertical&theme=holi" width="250" margin-bottom="40px"/>
+        </div>
       </div>
   </body>
 </html>
